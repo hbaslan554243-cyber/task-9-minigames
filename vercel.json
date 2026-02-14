@@ -1,6 +1,7 @@
 {
   "rewrite":[
-    { "source": "/(.*)", "destination": "/portfolio.html"}
+    { "source": "/(.*)", "destination": "/level-1.html"}
   ]
+
 
 }
